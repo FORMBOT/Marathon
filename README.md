@@ -11,4 +11,4 @@ Also, the latest system image used to flash the printer when leaving the Formbot
 
 Yours, Formbot Team ! :)
 
-![image](https://github.com/FORMBOT/Marathon/assets/73830817/5f3f5933-2c19-44c3-967d-edbb3a51e070)
+### ![image](https://github.com/FORMBOT/Marathon/assets/73830817/5f3f5933-2c19-44c3-967d-edbb3a51e070)
