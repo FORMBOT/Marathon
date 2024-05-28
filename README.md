@@ -1,5 +1,8 @@
 # Marathon
 
+![image](https://github.com/FORMBOT/Marathon/assets/73830817/ed381f19-a20b-42b9-be9a-7cedae6ee94b)
+
+
 In this repository, the basic Klipper configs found in the 'config' folder of Mainsail are kept. 
 They will not be automatically updated via Update Manager because they are also meant for the user to insert their own custom settings.
 
